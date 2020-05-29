@@ -1,0 +1,5 @@
+data/*.csv
+data/*.pkl
+data/socceraction/*.h5
+notebooks/.ipynb_checkpoints
+**/__pycache__
