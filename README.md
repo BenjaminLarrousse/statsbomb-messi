@@ -26,7 +26,6 @@ My analysis is composed of several notebooks. You can find the complete list bel
 | Utility_functions | Utility functions for data vizualisation and calculate advance stats |
 | unit_test | Test of one utility function with [pytest](https://docs.pytest.org/en/latest/) |
 
-
 ## Interactive visualization
 
 ### General
