@@ -28,11 +28,13 @@ My analysis is composed of several notebooks. You can find the complete list bel
 
 ## Interactive visualization
 
+List of visualization.
+
 ### General
 
 All static images can be found here: https://github.com/BenjaminLarrousse/statsbomb-messi/tree/master/figures
 
-| Vizualization | Description |
+| Visualization | Description |
 | ------ | ------ |
 | [Win/draw/loss FC Barcelona](https://benjaminlarrousse.github.io/statsbomb-messi/figures/win_draw_loss_barcelona.html) | Win/draw/loss distribution of FC Barcelona with Messi (2004-2019). |
 | [Win/draw/loss Messi](https://benjaminlarrousse.github.io/statsbomb-messi/figures/win_draw_loss_messi.html) | Win/draw/loss distribution depending on Messi scoring or assisting. |
@@ -47,13 +49,13 @@ All static images can be found here: https://github.com/BenjaminLarrousse/statsb
 
 All static images can be found here: https://github.com/BenjaminLarrousse/statsbomb-messi/tree/master/figures/derby
 
-| Vizualization | Description |
+| Visualization | Description |
 | ------ | ------ |
 | [VAEP Distribution (2009/10)](https://benjaminlarrousse.github.io/statsbomb-messi/figures/derby/vaep_distribution_messi_0910.html) | VAEP distribution, season 2009/10, and derby value. |
 
 ### Messi Advanced stats
 
-| Vizualization | Description |
+| Visualization | Description |
 | ------ | ------ |
 | [Completed passes inside the box](https://benjaminlarrousse.github.io/statsbomb-messi/figures/advanced-stats/completed_passes_inside_box.html) | Messi completed passes inside the box, normalized per 90. By season. |
 | [Completed passes into the box](https://benjaminlarrousse.github.io/statsbomb-messi/figures/advanced-stats/completed_passes_into_box.html) | Messi open play completed passes into the box, normalized per 90. By season. |
