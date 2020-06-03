@@ -7,7 +7,7 @@ Python code associated to my blog post about Messi.
 This repo contains code for analysing [Messi Data Biography](https://github.com/statsbomb/open-data).
 
 It contains folders for Jupyter notebooks, data, and figures.
- 
+
 ## Notebooks
 
 My analysis is composed of several notebooks. You can find the complete list below, with a small description.
@@ -26,7 +26,9 @@ My analysis is composed of several notebooks. You can find the complete list bel
 | Utility_functions | Utility functions for data vizualisation and calculate advance stats |
 | unit_test | Test of one utility function with [pytest](https://docs.pytest.org/en/latest/) |
 
-## Interactive visualization
+**N.B.**: make sure the _atomic_ folder of [socceraction](https://github.com/ML-KULeuven/socceraction/tree/atomic) is at the same level as this project if you want to use the associated notebooks.
+
+## Interactive visualization
 
 List of visualization.
 
@@ -63,8 +65,6 @@ All static images can be found here: https://github.com/BenjaminLarrousse/statsb
 | [Key passes](https://benjaminlarrousse.github.io/statsbomb-messi/figures/advanced-stats/key_passes.html) | Messi open play key passes, normalized per 90. By season. |
 | [xG assisted](https://benjaminlarrousse.github.io/statsbomb-messi/figures/advanced-stats/xG_assisted.html) | Messi xG assisted, normalized per 90. By season. |
 
-
-**N.B.**: make sure the _atomic_ folder of [socceraction](https://github.com/ML-KULeuven/socceraction/tree/atomic) is at the same level as this project if you want to use the associated notebooks.
 
 ## Contact
 
