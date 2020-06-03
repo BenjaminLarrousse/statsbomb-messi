@@ -1,6 +1,6 @@
 # Is it possible to defend against Messi? A data perspective.
 
-Python code associated to my blog post about Messi.
+Python code associated to my blog post about Messi: [Is it possible to defend against Messi?](https://towardsdatascience.com/is-it-possible-to-stop-messi-a-data-perspective-cf4e2d900181).
 
 # Content
 
