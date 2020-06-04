@@ -1,4 +1,4 @@
-data_dir = "/home/ysance.local/benjamin.larrousse/Documents/Football/open-data-master/data/"
+data_dir = "/your/path/open-data-master/data/" # Change to your local path where you put Statsbomb data
 data_url = "https://raw.githubusercontent.com/statsbomb/open-data/master/data/"
 
 folder_derby = '../figures/derby/'
